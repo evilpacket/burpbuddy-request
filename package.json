@@ -1,0 +1,19 @@
+{
+  "name": "burpbuddy-request",
+  "version": "1.0.0",
+  "description": "Make a http request from a burp buddy request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "burpbuddy",
+    "request"
+  ],
+  "author": "Adam Baldwin",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.39.0",
+    "underscore": "^1.6.0"
+  }
+}
